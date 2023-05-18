@@ -4,6 +4,7 @@ mod two_sum_1;
 mod group_anagrams_49;
 mod top_k_frequent_elements_347;
 mod longest_consecutive_sequence_128;
+mod valid_parentheses_20;
 
 fn main() {
 
