@@ -6,6 +6,7 @@ mod top_k_frequent_elements_347;
 mod longest_consecutive_sequence_128;
 mod valid_parentheses_20;
 mod min_stack_155;
+mod evaluate_reverse_polish_notation_150;
 
 fn main() {
 
