@@ -9,6 +9,8 @@ mod min_stack_155;
 mod evaluate_reverse_polish_notation_150;
 mod daily_temperatures_739;
 mod car_fleet;
+mod valid_palindrome_125;
+mod two_sum_ii_167;
 
 fn main() {
 
