@@ -13,6 +13,7 @@ mod valid_palindrome_125;
 mod two_sum_ii_167;
 mod three_sum_15;
 mod container_with_most_water_11;
+mod binary_search_704;
 
 fn main() {
 
