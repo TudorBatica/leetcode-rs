@@ -14,7 +14,8 @@ mod two_sum_ii_167;
 mod three_sum_15;
 mod container_with_most_water_11;
 mod binary_search_704;
+mod search_a_2d_matrix_74;
 
 fn main() {
-
+    search_a_2d_matrix_74::search_matrix(vec![vec![1, 1]], 0);
 }
