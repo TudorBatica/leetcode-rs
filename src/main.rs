@@ -19,5 +19,5 @@ mod min_in_rotated_sorted_array_153;
 mod search_in_rotated_sorted_array_33;
 
 fn main() {
-    search_a_2d_matrix_74::search_matrix(vec![vec![1, 1]], 0);
+
 }
